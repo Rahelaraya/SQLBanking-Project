@@ -2,9 +2,12 @@
 
 In this project, I created a database to manage customer accounts and transactions. The project involved three main tables:
 
-Customer: Stores customer details (username, email, account ID).
-Account: Holds account information (account type, balance, and linked customer).
-Transaction: Tracks financial transactions (deposit/withdrawal, amount, date).
+#Customer
+Stores customer details (username, email, account ID).
+#Account
+Holds account information (account type, balance, and linked customer).
+#Transaction
+Tracks financial transactions (deposit/withdrawal, amount, date).
 I inserted sample data into the tables and wrote SQL queries to perform tasks such as:
 
 Calculating account balances.
